@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippinguecrypt",
+        "uuid": 14335818,
+        "checksum": "z89ffo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
